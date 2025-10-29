@@ -2,16 +2,17 @@
 A C++ inventory system for searching Amazon products using custom data structures.
 
 ## Features
--find <UNIQUE I.D.>        - FINDS THE PRODUCT GIVEN THE UNIQUE I.D. 
--listInventory <CATEGORY>  - LISTS ALL THE PRODUCTS IN THE CATEGORY 
--help                      - TAKES TO THE HELP PAGE 
--exit                      - TO EXIT THE APPLICATION 
+
+- find <UNIQUE I.D.>        - FINDS THE PRODUCT GIVEN THE UNIQUE I.D. 
+- listInventory <CATEGORY>  - LISTS ALL THE PRODUCTS IN THE CATEGORY 
+- help                      - TAKES TO THE HELP PAGE 
+- exit                      - TO EXIT THE APPLICATION 
 
 ## Commands
--find 
--listInventory 
--help
--exit
+- find 
+- listInventory 
+- help
+- exit
 
 ## Data Structures
 - **HashTable** - Template based with separate chaining and automatic rehashing
