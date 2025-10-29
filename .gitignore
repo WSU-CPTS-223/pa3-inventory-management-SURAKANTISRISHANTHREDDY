@@ -1,2 +1,1 @@
-mainexe.dSYM/
-.DS_Store
+*.vcxproj*
